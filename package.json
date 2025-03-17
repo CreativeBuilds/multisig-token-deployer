@@ -1,5 +1,5 @@
 {
-  "name": "erc20-deployer",
+  "name": "multisig-token-deployer",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
